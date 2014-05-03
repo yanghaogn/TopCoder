@@ -29,9 +29,6 @@ public class PowerOutage {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
-		
-		
 		int[] fromJunction={0,0,0,0,0};
 		int[] toJunction={1,2,3,4,5};
 		int[] ductLength={100,200,300,400,500};
