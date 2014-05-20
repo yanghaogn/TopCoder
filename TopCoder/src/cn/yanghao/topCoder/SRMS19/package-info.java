@@ -5,4 +5,4 @@
  * @author yang
  *
  */
-package cn.yanghao.topCoder.SRMS16;
+package cn.yanghao.topCoder.SRMS19;

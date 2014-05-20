@@ -1,4 +1,4 @@
-package cn.yanghao.topCoder.SRMS16;
+package cn.yanghao.topCoder.SRMS17;
 /*
  * 
 Problem Statement
